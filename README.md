@@ -1,7 +1,7 @@
 # Algoritmos y Programación 3
 Alumnos integrantes del grupo:
-* Mazzaro, Franco
 * Correa Maya, Teo
+* Mazzaro, Franco
 
 Curso: Leveroni
 
